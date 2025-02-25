@@ -1,4 +1,4 @@
 # Amazon-Clone
-This is my first Git Repository.
+This is my Amazone Clone Repository.
 <br>
 Author - Aashish Diwakar
